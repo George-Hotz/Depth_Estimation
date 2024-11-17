@@ -17,7 +17,7 @@
 ### Step3: 转化模型引擎 
 `./build/build --onnx_file=vits.onnx`
 
-### Step4: Yolov8-seg 推理部署
+### Step4: Depth_Net推理部署
 `./build/main --thread_num 4 --video_path input/videos/road.mp4 --model_path weights/vits_fp16.engine`
 
 # 参考
