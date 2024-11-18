@@ -1,10 +1,10 @@
 #include "server.h"
 
 /*
-    Author：雪花
+    Author：George-Hotz（樂）
     github: https://github.com/George-Hotz
     License: MIT License 
-    Copyright (c) 2024 樂
+    Copyright (c) 2024 George-Hotz（樂）
 */
 
 DEFINE_int32(thread_num, 4, "thread_num");
