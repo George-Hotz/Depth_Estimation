@@ -4,7 +4,7 @@
     Author：雪花
     github: https://github.com/George-Hotz
     License: MIT License 
-    Copyright (c) 2024 雪花
+    Copyright (c) 2024 樂
 */
 
 DEFINE_int32(thread_num, 4, "thread_num");
