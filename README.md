@@ -1,6 +1,5 @@
 # 单目深度估计的模型部署(C++ TensorRT)
 - 轻松实现Depth Estimation的TensorRT高性能推理
-- 没有复杂的包装，没有耦合!
 
 
 # 结果展示
